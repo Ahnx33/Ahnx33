@@ -9,7 +9,7 @@ I'm a software developer and highschool student passionate about coding and game
 - **Tools**: Godot, Git
 - **Interests**: Game Development, AI, Web Apps
 
-- 🌱 **I’m currently learning**: Node.js, Php, Typescript, Unity, React, .NET
+- 🌱 **I’m planning to learn**: Node.js, Php, Typescript, Unity, React, .NET
 
 ## 📂 My Projects
 
