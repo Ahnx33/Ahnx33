@@ -5,11 +5,11 @@ I'm a software developer and highschool student passionate about coding and game
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, Python, Java, C++, C#
-- **Frameworks**: Vue.js
+- **Frameworks**: Vue.js, Bootstrap
 - **Tools**: Godot, Git
 - **Interests**: Game Development, AI, Web Apps
 
-- 🌱 **I’m planning to learn**: Node.js, Php, Typescript, Unity, React, .NET
+- 🌱 **I’m planning to learn**: Node.js, Php, Typescript, Unity, React, .NET, Tailwind
 
 ## 📂 My Projects
 
